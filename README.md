@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 반갑습니다</h1>
+<h1 align="center">안녕하세요</h1>
 <h3 align="center">IT 개발 지망생</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincheol11&label=Profile%20views&color=0e75b6&style=flat" alt="mincheol11" /> </p>
